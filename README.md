@@ -18,7 +18,7 @@ Run the Python file as:
 It should yield the following terminal output, where these values correpond to the Table 2 of our paper.
 
     ###########
-    AUC-PR_based_on_L2-distance):  0.7970
+    AUC-PR_based_on_L2-distance:  0.7970
     AUC-PR_based_on_PA-score:  0.7735
     AUC-PR_based_on_BTL:  0.3419
     AUC-PR_based_on_STUN:  0.6628
