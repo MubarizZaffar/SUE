@@ -4,7 +4,7 @@ SUE stands for Spatial Uncertainty Estimation, as published in our CVPR 2024 pap
 ![./sue.png](https://github.com/MubarizZaffar/SUE/blob/master/sue.png)
 
 ## How to use this code
-This codebase is quite simple, which is on purpose. It aligns with our proposal in SUE: something simple surprisingly works quite well, which is presumably why it is a highlight poster at CVPR.
+This codebase is quite simple, which is on purpose; in fact originally I wanted to call SUE as Simple Uncertainty Estimation but oh well. The simplicity of the code aligns with our proposal in the paper: something simple surprisingly works quite well, which is presumably why it is a highlight poster at CVPR.
 
 Only the implementation of SUE is provided in `sue.py`. All other baselines are open-sourced in their corresponding repositories, please refer accordingly.
 
