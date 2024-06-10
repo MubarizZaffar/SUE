@@ -2,7 +2,7 @@
 SUE stands for Spatial Uncertainty Estimation, as published in our CVPR 2024 paper: [On the estimation of image-matching uncertainty in Visual Place Recognition](https://arxiv.org/abs/2404.00546). The purpose of SUE is to estimate whether a retrieval performed for a given query image is correct or not, i.e., to estimate the uncertainty for VPR. The quality of uncertainty estimation is evaluated using Area-under-the-Precision-Recall-Curves (AUC-PR).
 
 ```
-![](sue.png)
+![](./sue.png)
 ```
 
 ## How to use this code
